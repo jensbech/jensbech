@@ -1,1 +1,1 @@
-# All public code at [git.bechsor.no/jens](http://git.bechsor.no/jens)
+# Public code at [git.bechsor.no/jens](http://git.bechsor.no/jens)
