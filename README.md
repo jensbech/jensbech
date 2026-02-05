@@ -1,1 +1,1 @@
-👋 I host personal code at [git.bechsor.no/jens](https://git.bechsor.no/jens?tab=repositories)
+Public reposotries here are mirrored from [git.bechsor.no/jens](https://git.bechsor.no/jens?tab=repositories)
