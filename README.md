@@ -1,1 +1,2 @@
-Public reposotries here are mirrored from [git.bechsor.no/jens](https://git.bechsor.no/jens?tab=repositories)
+- Public reposotries are mirrored from [git.bechsor.no/jens](https://git.bechsor.no/jens?tab=repositories)
+- CV at [jens.bechsor.no](https://jens.bechsor.no/)
