@@ -1,2 +1,2 @@
 - Public reposotries are mirrored from [git.bechsor.no/jens](https://git.bechsor.no/jens?tab=repositories)
-- Honmepage at [jens.bechsor.no](https://jens.bechsor.no/)
+- Homepage at [jens.bechsor.no](https://jens.bechsor.no/)
