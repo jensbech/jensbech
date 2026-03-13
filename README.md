@@ -1,1 +1,1 @@
-Public reposotries mirrored from [git.bechsor.no/jens](https://git.bechsor.no/jens?tab=repositories). Homepage at [jens.bechsor.no](https://jens.bechsor.no/).
+it's free real estate
